@@ -1,1 +1,32 @@
-/*  your css code here. If applicable */
+.main-container{
+	background-color:#ece9e9;
+	width:40%;
+	box-shadow: 5px 5px 5px 2px rgba(0.2, 0.2, 0.2, 0.3);
+	padding:25px;
+}
+img{
+	contain:fit;
+	width:200px;
+	margin-left:17px;
+}
+h1{
+	margin:0;
+	text-align:center;
+}
+p{
+	margin:0;
+	text-align:center;
+	font-weight:bold;
+}
+p:first-child{
+	text-align:center;
+}
+.btn{
+	margin:10px;
+	margin-left:30%;
+	color:white;
+	background-color:crimson;
+	padding:20px;
+	border-radius:10px;
+	border:none;
+}
